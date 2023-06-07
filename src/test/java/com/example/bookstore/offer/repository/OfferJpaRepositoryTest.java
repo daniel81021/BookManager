@@ -1,12 +1,11 @@
 package com.example.bookstore.offer.repository;
 
 import com.example.bookstore.book.model.BookJpa;
-import com.example.bookstore.model.entities.OfferJpa;
+import com.example.bookstore.offer.model.OfferJpa;
 import com.example.bookstore.model.entities.ProductJpa;
 import com.example.bookstore.warehouse.model.WarehouseJpa;
 import com.example.bookstore.model.enums.Marketplace;
 import com.example.bookstore.book.repository.BookJpaRepository;
-import com.example.bookstore.repositories.OfferJpaRepository;
 import com.example.bookstore.repositories.ProductJpaRepository;
 import com.example.bookstore.repositories.WarehouseJpaRepository;
 import org.assertj.core.api.Assertions;

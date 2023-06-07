@@ -1,5 +1,6 @@
-package com.example.bookstore.model.entities;
+package com.example.bookstore.offer.model;
 
+import com.example.bookstore.model.entities.ProductJpa;
 import com.example.bookstore.model.enums.Marketplace;
 import com.example.bookstore.model.utils.CreateUpdateData;
 import lombok.Getter;
